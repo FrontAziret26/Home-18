@@ -4,7 +4,7 @@ import Materials from "./components/main-content/Materials";
 import Rating from "./components/main-content/Rating";
 import Students from "./components/main-content/Students";
 import Navbar from "./components/navbar/Navbar";
-import Announcements from "./page/announcement-page/Announcements";
+import Announcements from "./page/anouncement-page/Announcements";
 import Courses from "./page/course-page/Courses";
 import MaterialDetail from "./page/course-page/material-detail/MaterialDetail";
 import Notifications from "./page/notification-page/Notifications";
